@@ -17,7 +17,7 @@ return [
             "bodyClass"     => [],
             "lang"          => "en",
             "charset"       => "utf-8",
-            "title_append"  => " | Anax Flat",
+            "title_append"  => " | Incitatus",
             "favicon"       => "img/favicon/favicon_256x256.png",
 
             // Style and stylesheets
