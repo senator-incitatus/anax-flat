@@ -1,5 +1,5 @@
 Copyright &copy; 2017 Incitatus
 
-* [License](license)
-* [Cookies](cookies)
+* [License](license) &bullet;
+* [Cookies](cookies) &bullet;
 * [Contact](contact)
