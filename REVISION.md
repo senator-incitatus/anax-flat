@@ -1,6 +1,16 @@
+v3.0.1 (2017-11-16)
+---------------------------------------
+* Theme folder properly removed from anax-flat repo
+* Report for kmom03 added
+
+v3.0.0 (2017-11-16)
+---------------------------------------
+* Grid-based design added
+* Additional pages for displaying/testing grid added
+
 v2.0.1 (2017-11-09)
 ---------------------------------------
-* Report added
+* Report for kmom02 added
 
 v2.0.0 (2017-11-09)
 ---------------------------------------
