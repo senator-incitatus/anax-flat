@@ -1,3 +1,8 @@
+v4.0.0 (2017-11-26)
+---------------------------------------
+* Added color analysis page and removed Athena page from navigation
+* Added theme page
+
 v3.0.1 (2017-11-16)
 ---------------------------------------
 * Theme folder properly removed from anax-flat repo

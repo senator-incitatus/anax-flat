@@ -27,10 +27,10 @@ return [
                 "title" => t("About this website")
             ],
 
-            "athena" => [
-                "text" => t("Athena Grace"),
-                "url" => $this->di->get("url")->create("athena"),
-                "title" => t("Information about Athena")
+            "analysis" => [
+                "text" => t("Analysis"),
+                "url" => $this->di->get("url")->create("analysis"),
+                "title" => t("Color analyses")
             ],
 
             "grid" => [
@@ -43,6 +43,12 @@ return [
                 "text" => t("Typography"),
                 "url" => $this->di->get("url")->create("typography"),
                 "title" => t("Typography test page")
+            ],
+
+            "themes" => [
+                "text" => t("Themes"),
+                "url" => $this->di->get("url")->create("theme"),
+                "title" => t("Page about themes")
             ],
         ],
     ],
@@ -74,10 +80,10 @@ return [
                 "title" => t("About this website")
             ],
 
-            "athena" => [
-                "text" => t("Athena Grace"),
-                "url" => $this->di->get("url")->create("athena"),
-                "title" => t("Information about Athena")
+            "analysis" => [
+                "text" => t("Analysis"),
+                "url" => $this->di->get("url")->create("analysis"),
+                "title" => t("Color analyses")
             ],
 
             "grid" => [
@@ -90,6 +96,12 @@ return [
                 "text" => t("Typography"),
                 "url" => $this->di->get("url")->create("typography"),
                 "title" => t("Typography test page")
+            ],
+
+            "themes" => [
+                "text" => t("Themes"),
+                "url" => $this->di->get("url")->create("theme"),
+                "title" => t("Page about themes")
             ],
         ],
     ],
