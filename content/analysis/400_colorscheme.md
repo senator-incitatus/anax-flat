@@ -1,4 +1,4 @@
-Website Analyses
+Colorscheme
 ==============
 
 ###Introduktion
@@ -7,8 +7,7 @@ Jag valde dessa tre sidor för min analys: [Stall Untersteiner](http://www.unter
 
 ### #1: Stall Untersteiner
 
-[![Stall Untersteiner](img/analysis/stalluntersteiner.jpg)](../img/analysis/stalluntersteiner.jpg)
-_Screenshot 24/11 2017_
+[FIGURE src="image/analysis/stalluntersteiner.jpg?w=784" caption="_Screenshot 24/11 2017_" class="center"]
 
 <div class="colorbox" style="background-color: #ce2739;"></div>
 <div class="colorbox" style="background-color: #fff;"></div>
@@ -22,8 +21,7 @@ Färgerna tycker jag fungerar - det är hemsidan för en av Sveriges större tra
 
 ### #2: The Useless Web
 
-[![The Useless Web](img/analysis/theuselessweb.jpg)](../img/analysis/theuselessweb.jpg)
-_Screenshot 24/11 2017_
+[FIGURE src="image/analysis/theuselessweb.jpg?w=784" caption="_Screenshot 24/11 2017_" class="center"]
 
 <div class="colorbox" style="background-color: #ff1493;"></div>
 <div class="colorbox" style="background-color: #fbfbfb;"></div>
@@ -37,8 +35,7 @@ The Useless Web skickar dig vidare till en random "useless" hemsida, och är cen
 
 ### #3: DreamHost
 
-[![DreamHost](img/analysis/dreamhost.jpg)](../img/analysis/dreamhost.jpg)
-_Screenshot 24/11 2017_
+[FIGURE src="image/analysis/dreamhost.jpg?w=784" caption="_Screenshot 24/11 2017_" class="center"]
 
 <div class="colorbox" style="background-color: #2bade9;"></div>
 <div class="colorbox" style="background-color: #f9f9f9;"></div>

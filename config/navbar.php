@@ -27,6 +27,12 @@ return [
                 "title" => t("About this website")
             ],
 
+            "blog" => [
+                "text" => t("Blog"),
+                "url" => $this->di->get("url")->create("blog"),
+                "title" => t("The blog")
+            ],
+
             "analysis" => [
                 "text" => t("Analysis"),
                 "url" => $this->di->get("url")->create("analysis"),
@@ -49,6 +55,12 @@ return [
                 "text" => t("Themes"),
                 "url" => $this->di->get("url")->create("theme"),
                 "title" => t("Page about themes")
+            ],
+
+            "images" => [
+                "text" => t("Images"),
+                "url" => $this->di->get("url")->create("images"),
+                "title" => t("Page with images")
             ],
         ],
     ],
@@ -80,6 +92,12 @@ return [
                 "title" => t("About this website")
             ],
 
+            "blog" => [
+                "text" => t("Blog"),
+                "url" => $this->di->get("url")->create("blog"),
+                "title" => t("The blog")
+            ],
+
             "analysis" => [
                 "text" => t("Analysis"),
                 "url" => $this->di->get("url")->create("analysis"),
@@ -102,6 +120,12 @@ return [
                 "text" => t("Themes"),
                 "url" => $this->di->get("url")->create("theme"),
                 "title" => t("Page about themes")
+            ],
+
+            "images" => [
+                "text" => t("Images"),
+                "url" => $this->di->get("url")->create("images"),
+                "title" => t("Page with images")
             ],
         ],
     ],

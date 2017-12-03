@@ -4,7 +4,7 @@ titleBreadcrumb: Home
 The Lair of Incitatus
 ===============================
 
-<img src="img/esra_avatar.jpg" alt="Esra" style="float: left; padding-right: 5px;" />
+[FIGURE src="img/esra_avatar.jpg" class="left w25"]
 
 Hi!
 
@@ -12,7 +12,7 @@ I am Incitatus, and I'm currently studying web programming at BTH.
 
 I am somewhat of a vampire in terms of rarely getting stuck in pictures - alternatively, I don't have a lot of photo-happy friends, you decide - so this one of me, dressed up as a werewolf, is not only less than a year old, but also a favorite. I *am* rather proud of that costume, so it's not like I mind flinging it at everyone...
 
-<img src="img/jagoathena.jpg" alt="Incitatus & Athena" class="big-img" style="float: right; padding-left: 5px;" />
+[FIGURE src="img/jagoathena.jpg" class="right w50"]
 
 I am a northern soul living on the Swedish west coast. I have a huge derpy horse, whom I love dearly and spend a lot of time with. I also have two fluffy cats, but they prefer being anonymous. Cats, y'know. ;)
 

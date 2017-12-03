@@ -1,3 +1,10 @@
+v5.0.0(2017-12-03)
+---------------------------------------
+* Added speedtest page
+* Added image page
+* Added the blog
+* Made neater links
+
 v4.0.0 (2017-11-26)
 ---------------------------------------
 * Added color analysis page and removed Athena page from navigation
