@@ -71,10 +71,28 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
-            "stylesheets" => []
+        "texture"       => [
+            "title"      => "A theme with texture",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css"
+            ]
+        ],
+
+        "photo"         => [
+            "title"     => "A theme with photos",
+            "class"     => "photo",
+            "stylesheets" => [
+                "css/photo.min.css"
+            ]
+        ],
+
+        "gradient"      => [
+            "title"     => "A theme with gradients and borders",
+            "class"     => "gradient",
+            "stylesheets" => [
+                "css/gradient.min.css"
+            ]
         ],
     ]
 ];

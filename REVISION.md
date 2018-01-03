@@ -1,3 +1,8 @@
+v6.0.0(2018-01-03)
+---------------------------------------
+* Added design element and principle pages
+* Added design element/principle analyses
+
 v5.0.0(2017-12-03)
 ---------------------------------------
 * Added speedtest page
