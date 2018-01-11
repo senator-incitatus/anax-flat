@@ -1,3 +1,9 @@
+v10.0.0(2018-01-11)
+---------------------------------------
+* Added usability & writing analyses
+* Report for kmom10 added
+* Internal theme folder included in the repo
+
 v6.0.0(2018-01-03)
 ---------------------------------------
 * Added design element and principle pages
